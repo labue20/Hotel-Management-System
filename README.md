@@ -1,3 +1,3 @@
 # Hotel-Management-System
 
-This Software is Create and Manage by : Wilfred Labue
+This Software is Created and Manage by : Wilfred Labue
